@@ -4,7 +4,6 @@
 
 Emerson Dresser
 
-[Your Name and email? GitHub username?]
 
 ## Description
 
