@@ -7,3 +7,12 @@ p <- ggplot(data_lionfish,
   geom_point()
 p
 ggsave(plot = p, filename = "results/img/first_plot.png")
+
+
+#additional practice
+summary(cars)
+view(cars)
+
+cars_plot<-ggplot(cars,aes(x=speed, y=dist))+
+  geom_point()
+cars_plot
