@@ -18,8 +18,11 @@ through advanced open water, NPS Blue Card, AAUS, and current Divemaster trainin
 ## Repository Structure
 
 -`data/`:
+
   -`data/raw` contains the `dresser_dive_log.csv` file and `dive_locations.csv` file as imported from my personal computer
+  
   -`data/processed` contains a single cleaned version of my data `clean_dive_log.rds`
+  
 - `scripts/`: R scripts for analysis
   - `scripts/01_processing` contains a single script that reads the raw data from both files, cleans them, and exports the processed data
   - `scripts/02_analyses` contains a script that reads in the cleaned data and conducts exploratory visualization
