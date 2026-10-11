@@ -29,4 +29,22 @@ through advanced open water, NPS Blue Card, AAUS, and current Divemaster trainin
 - `results/`: Contains a folder with images of plots from the data visualization and analysis 
 
   ## About the Data
-  - 
+- `data/processed/dive_data_clean.rds` contains 145 rows and 17 columns:
+
+  - `dive_number` - Integer - Sequential number of each dive in the log
+  - `date` - Date - Date of the dive
+  - `dive_min` - Numeric - Length of the dive, in minutes
+  - `total_dive_hours` - Numeric - Running total of hours underwater through that dive, as recorded in the log
+  - `max_depth` - Numeric - Maximum depth reached, in feet
+  - `surface_temp` - Numeric - Surface water temperature, in degrees Fahrenheit (`NA` if not recorded)
+  - `bottom_temp` - Numeric - Bottom water temperature, in degrees Fahrenheit (`NA` if not recorded)
+  - `air_in` - Integer - Tank pressure at the start of the dive, in PSI (`NA` if not recorded)
+  - `air_out` - Integer - Tank pressure at the end of the dive, in PSI (`NA` if not recorded)
+  - `weight` - Numeric - Weight worn, in pounds (`0` means no weight)
+  - `wetsuit_type` - Character - Exposure protection worn: `"none"`, `"4/3mm"`, or `"5mm"`
+  - `o2_fraction` - Numeric - Fraction of oxygen in the breathing gas (`0.21` for air, `0.32` or `0.33` for nitrox)
+  - `air_consumed` - Integer - Air used during the dive, in PSI (`air_in` minus `air_out`)
+  - `psi_per_min` - Numeric - Air used per minute, in PSI (`air_consumed` divided by `dive_min`)
+  - `temp_diff` - Numeric - Surface minus bottom temperature, in degrees Fahrenheit (`surface_temp` minus `bottom_temp`)
+  - `area` - Character - Where the dive took place: `"St. Croix"`, `"Viti Levu"`, `"Taveuni"`, `"Bimini"`, `"Key Biscayne"`, `"Miami"`, or `"Dania Beach"`
+  - `region` - Character - Larger grouping of `area`: `"USVI"`, `"Fiji"`, `"Bahamas"`, or `"South Florida"`
