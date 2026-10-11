@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#initial attempts
+scripts/01_processing/initial_cleaning_dive_data.R
+
+

@@ -1,0 +1,146 @@
+﻿Number,Date,Location,Total Time This Dive,Total Water Hours to Date,Max Depth (ft),Surface_temp_f,Bottom_temp_f,Air in (PSI),Air Out,Weight,Wetsuit Type,O2 Fraction,Comments
+1,11/20/2021,"F'sted Pier, STX",0:31,0.5,32,,,,,8#,none,0.21,Open Water 1
+2,11/27/2021,"F'sted Pier, STX",0:25,1,34,,,,,8#,none,0.21,OW 2
+3,11/28/2021,"Cane Bay, STX",0:35,1.75,40,,,,,8#,none,0.21,OW3
+4,11/28/2021,"Cane Bay, STX",0:45,2.5,60,,,,,8#,none,0.21,OW4
+5,1/9/2022,"F'sted Pier, STX",0:37,3.25,21.3,80.6,79,,,12#,4/3mm,0.21,Advanced Open Water 1 (compass/navigation)
+6,1/27/2022,"Cane Bay, STX",0:38,4,54.8,,,,,12#,4/3mm,0.21,AOW 2 (night dive 1)
+7,1/28/2022,"F'sted Pier, STX",0:44,4.75,24,78.8,,,,12#,4/3mm,0.21,SD Open Water 1
+8,1/28/2022,"F'sted Pier, STX",0:47,5.5,32.5,82.4,78.6,,,11#,4/3mm,0.21,SD OW 2
+9,1/29/2022,"Cane Bay, STX",0:42,6.25,42.7,,78.3,3000,1200,11#,4/3mm,0.21,SD OW 3
+10,1/29/2022,"North Star, STX",0:47,7,66.6,78.6,78.3,3000,850,11#,4/3mm,0.21,SD OW 4
+11,2/5/2022,"F'sted Pier, STX",0:47,7.75,29.5,79.5,77.7,3000,1300,11#,4/3mm,0.21,AOW 3 (Fish ID)
+12,2/20/2022,"Butler Bay, STX",0:46,8.5,71.5,78.4,77.9,,,12#,4/3mm,0.21,AOW 4: Wreck Dive
+13,2/26/2022,"Carambola Beach Resort, STX",0:36,9.25,107.3,79.2,78.1,,,12#,4/3mm,0.21,AOW 5: Deep
+14,3/3/2022,"F'sted Pier, STX",1:00,10.25,40.4,78.8,78.6,,,12#,4/3mm,0.21,"Night Dive, Last dive of 2nd STX medic deployment 2022"
+15,4/7/2022,"Beqa Passage, Viti Levu, Fiji",0:40,11,94.5,84,82.8,,,12#,4/3mm,0.21,Fiji Shark Dive 1
+16,4/7/2022,"Beqa Passage, Viti Levu, Fiji",0:38,11.75,53.1,84.4,82.9,,,12#,4/3mm,0.21,Fiji Shark Dive 2
+17,4/11/2022,"Great White Wall, Taveuni, Fiji",0:36,12.5,108.3,86.7,84.4,,,11#,4/3mm,0.21,"Dive Academy Fiji, Taveuni"
+18,4/11/2022,"Jerry's Jelly, Taveuni, Fiji",0:44,13.25,76.8,86.5,82.9,,,11#,4/3mm,0.21,"Dive Academy Fiji, Taveuni"
+19,4/12/2022,"Mini White Wall, Taveuni, Fiji",0:52,14.25,90.2,84.9,83.3,,,12#,4/3mm,0.21,Taveuni Dive Resort
+20,4/12/2022,"Cabbage Patch, Taveuni, Fiji",0:58,15.25,71.2,86,82.8,,,12#,4/3mm,0.21,Taveuni Dive Resort
+21,7/3/2022,"F'sted Pier, STX",0:51,16.25,21.7,82.2,81.3,,,11#,4/3mm,0.21,OW 1 assistance JD
+22,7/8/2022,"F'sted Pier, STX",0:45,17,24.6,82.4,81.1,,,12#,4/3mm,0.21,OW 3 assistance JD
+23,7/16/2022,"F'sted Pier, STX",0:45,17.75,33.5,82.3,81.5,,,12#,4/3mm,0.21,OW 5 assistance JD
+24,9/8/2022,"F'sted Pier, STX",1:03,18.75,33.5,83.3,82.1,3300,1800,11#,4/3mm,0.21,
+25,11/16/2022,Buck Island Reef National Monument,0:47,19.5,14.8,85.3,81.1,,,6#,none,0.21,Blue Card Skills Day (Ditch and Don)
+26,1/23/2023,Buck Island Reef National Monument,0:58,20.5,13.8,80.6,78.6,3200,1100,8#,4/3mm,0.21,"Blue Card Stony Coral tissue Loss Disease Treatment (SCTLD Tx), STX"
+27,1/23/2023,Buck Island Reef National Monument,0:47,21.25,16.4,78.6,78.3,3200,1500,8#,4/3mm,0.21,"Blue Card SCTLD Tx, STX"
+28,1/26/2023,Buck Island Reef National Monument,0:54,22.25,11.5,80.1,78.4,3100,1200,10#,4/3mm,0.21,"Blue Card SCTLD Tx, STX"
+29,2/12/2023,"F'sted Pier, STX",0:46,23,32.2,78.4,77.9,3100,1500,11#,4/3mm,0.21,
+30,2/12/2023,"F'sted Pier, STX",0:33,23.5,22,78.6,77.2,1500,500,11#,4/3mm,0.21,
+31,2/15/2023,Buck Island Reef National Monument,1:25,25,17.4,81,78.3,2900,500,10#,4/3mm,0.21,"Blue Card SCTLD Tx, STX"
+32,2/15/2023,Buck Island Reef National Monument,0:46,25.75,10.8,79.9,77.4,1600,500,10#,4/3mm,0.21,"Blue Card SCTLD Tx, STX"
+33,2/20/2023,"Cane Bay, STX",1:18,27,26.9,80.1,77.7,3400,500,10#,4/3mm,0.21,"Staghorn outplanting with The Nature Conservancy, STX, USVI. NPS-Blue Card."
+34,3/4/2023,"F'sted Pier, STX",0:30,27.5,21.9,,,,,10#,4/3mm,0.21,Assisting Navigation for AOW.
+35,3/16/2023,Buck Island Reef National Monument,0:44,28.25,12.8,82.9,78.6,3300,1700,9#,4/3mm,0.21,"Buck Island, NPS BlueCard, SCTLD Tx."
+36,3/19/2023,"F'sted Pier, STX",0:22,28.75,21,78.3,77.2,,,10#,4/3mm,0.21,Rescue Cert Dive
+37,3/24/2023,Buck Island Reef National Monument,1:02,29.75,7.2,79.9,78.6,3300,500,9#,4/3mm,0.21,"Buck Island Reef, Cleaning/chiseling underwater trail signs. NPS Bluecard, STX"
+38,3/27/2023,Buck Island Reef National Monument,0:45,30.5,11.8,79.5,77.5,3200,1700,9#,4/3mm,0.21,"Buck Island Reef, SCTLD Tx and cleaning/chiseling signs NPS Bluecard, STX"
+39,3/27/2023,Buck Island Reef National Monument,0:40,31.25,31.2,79.9,77.7,3000,1700,9#,4/3mm,0.21,"Buck Island Reef Scuba Cut location, SCTLD Tx. NPS Bluecard, STX"
+40,4/11/2023,"Salt River, STX",0:25,31.75,55.1,81.9,78.3,2500,1500,8#,4/3mm,0.21,"Salt River, STX. SCTLD/Coral Surveying"
+41,4/11/2023,"Salt River, STX",0:25,32.25,63,81.1,78.1,1500,600,8#,4/3mm,0.21,"Salt River, STX. SCTLD/Coral Surveying"
+42,4/17/2023,Buck Island Reef National Monument,1:35,34,7.5,80.4,79.3,3200,500,7#,4/3mm,0.21,"Buck Island Reef, PSTR Brain Coral outplanting NPS and The Nature Conservancy, STX. Nps Bluecard."
+43,4/17/2023,Buck Island Reef National Monument,1:37,35.75,8.5,80.4,78.6,3300,600,7#,4/3mm,0.21,"Buck Island Reef, PSTR Brain Coral outplanting NPS and The Nature Conservancy, STX. Nps Bluecard."
+44,4/25/2023,Buck Island Reef National Monument,0:45,36.5,32.5,85.1,80.6,3000,1500,7#,4/3mm,0.21,"Buck Island Reef, SCTLD Tx, NPS Bluecard, St. Croix, USVI."
+45,5/2/2023,"Cane Bay, STX",0:45,37.25,87.9,81.3,79.5,3000,800,10#,4/3mm,0.21,"Cane Bay, St. Croix fun dive. 10# because using jacket style not back plate."
+46,5/12/2023,Buck Island Reef National Monument,0:45,38,30,83.5,81.3,3300,1800,7#,4/3mm,0.21,"Buck Island Reef, St. Croix, USVI SCTLD Tx on Scuba Trail. Higher air consumption than normal b/c sick w/ head cold."
+47,5/14/2023,"Cane Bay, STX",1:35,39.75,19.7,81.3,81,3200,800,7#,4/3mm,0.21,"Cane Bay, St. Croix. Working with The Nature Conservancy, Coral spawn/gamete collection dive."
+48,5/22/2023,Buck Island Reef National Monument,0:25,40.25,60,83.3,80.1,3300,1800,7#,4/3mm,0.21,"Buck Island Reef, STX. Bluecard NPS, NCRMP training Dive,"
+49,5/22/2023,Buck Island Reef National Monument,0:23,40.75,86.9,82,80.2,1600,700,7#,4/3mm,0.21,"Buck Island Reef, STX. Bluecard NPS, NCRMP training Dive"
+50,5/22/2023,Buck Island Reef National Monument,0:22,41.25,59.4,82.9,80.8,3300,2500,7#,4/3mm,0.21,"Buck Island Reef, STX. Bluecard NPS, NCRMP Fish Survey training Dive"
+51,5/22/2023,Buck Island Reef National Monument,0:20,41.75,63.6,83.3,80.1,2500,1500,7#,4/3mm,0.21,"Buck Island Reef, STX. Bluecard NPS, NCRMP Fish Survey training Dive"
+52,5/22/2023,Buck Island Reef National Monument,0:23,42.25,91.9,81.5,80.1,3200,1800,7#,4/3mm,0.21,"Buck Island Reef, STX. Bluecard NPS, NCRMP Fish Survey training Dive"
+53,5/22/2023,Buck Island Reef National Monument,0:31,42.75,44.9,81.1,80.1,1600,700,7#,4/3mm,0.21,"Buck Island Reef, STX. Bluecard NPS, NCRMP Fish Survey training Dive"
+54,5/26/2023,Buck Island Reef National Monument,1:05,44,13.1,84.6,82.4,3100,1400,9#,4/3mm,0.21,"Buck Island Reef, STX. NPS Bluecard, SCTLD Tx."
+55,5/26/2023,Buck Island Reef National Monument,0:41,44.75,10.5,85.1,82,1400,500,9#,4/3mm,0.21,"Buck Island Reef, STX. Bluecard NPS, NCRMP Fish Survey training Dive"
+56,6/2/2023,Buck Island Reef National Monument,1:11,46,31,83.3,82.8,3000,1000,9#,4/3mm,0.21,"Buck Island Reef, SCTLD Tx, NPS Bluecard, St. Croix, USVI."
+57,6/2/2023,Buck Island Reef National Monument,0:25,46.5,14.1,83.3,82.8,1000,600,9#,4/3mm,0.21,"Buck Island Reef, NOAA NCRMP Training dive"
+58,6/5/2023,"Lang Bank, STX, USVI",0:36,47.25,55.8,83.3,81.3,3100,1200,7#,4/3mm,0.21,"NOAA NCRMP Day 1. Dive 1. Line Point Intersect (Benthic) Survey (LPI). STX, USVI. (NPS Blue card)"
+59,6/5/2023,"West of Lang Bank, STX, USVI",0:34,47.75,45.9,83.1,81.3,3100,1200,7#,4/3mm,0.21,"NOAA NCRMP Day 1. Dive 2. Line Point Intersect Survey (LPI). STX, USVI."
+60,6/5/2023,Buck Island Reef National Monument,0:22,48.25,15.4,84.2,81.7,1200,500,7#,4/3mm,0.21,"NOAA NCRMP Day 1. Dive 3. Line Point Intersect Survey (LPI). STX, USVI."
+61,6/8/2023,"Lang Bank, STX, USVI",0:43,49,67.3,86,81.7,3100,1200,7#,4/3mm,0.21,NOAA NCRMP Day 2/Dive 4. LPI Benthic Survey.
+62,6/8/2023,"East of Buck Island, STX, USVI",0:28,49.5,39.7,83.3,82.8,3000,2200,7#,4/3mm,0.21,NOAA NCRMP Day 2/Dive 5. LPI Benthic Survey.
+63,6/8/2023,"North of Buck Island, STX, USVI",0:33,50,37.1,84.7,81.7,2200,800,7#,4/3mm,0.21,NOAA NCRMP Day 2/Dive 6. LPI Benthic Survey.
+64,6/9/2023,"Lang Bank, STX, USVI",0:33,50.5,65.6,83.3,82.4,3000,1500,7#,4/3mm,0.21,NOAA NCRMP Day 3/Dive 7. LPI Benthic Survey.
+65,6/9/2023,"East of Buck Island, STX, USVI",0:24,51,35.1,83.8,81.3,3000,2200,7#,4/3mm,0.21,NOAA NCRMP Day 3/Dive 8. LPI Benthic Survey.
+66,6/9/2023,"West of Buck Island, STX, USVI",0:28,51.5,36.7,82.8,81.5,2200,1200,7#,4/3mm,0.21,NOAA NCRMP Day 3/Dive 9. LPI Benthic Survey.
+67,6/9/2023,"West of Buck Island, STX, USVI",0:21,52,21.7,81.5,81.5,1200,800,7#,4/3mm,0.21,NOAA NCRMP Day 3/Dive 10. LPI Benthic Survey.
+68,6/14/2023,"South East of Point Udall, STX, USVI",0:32,52.5,73.2,90.7,83.1,3100,2100,8#,4/3mm,0.33,NOAA NCRMP Day 4/Dive 11. LPI Benthic Survey.
+69,6/14/2023,"South East of Point Udall, STX, USVI",0:32,53,65.9,84.2,82.6,2100,900,8#,4/3mm,0.33,NOAA NCRMP Day 4/Dive 12. LPI Benthic Survey.
+70,6/14/2023,"Near Jack/Isaac's Bay, STX, USVI",0:26,53.5,39.7,86.2,83.3,3000,2100,8#,4/3mm,0.32,NOAA NCRMP Day 4/Dive 13. LPI Benthic Survey.
+71,6/14/2023,"Near Jack/Isaac's Bay, STX, USVI",0:24,54,6.9,84.9,83.8,2200,1000,8#,4/3mm,0.32,NOAA NCRMP Day 4/Dive 14. LPI Benthic Survey.
+72,6/14/2023,"South Shore, STX, USVI",0:30,54.5,5.7,,,2200,1600,8#,4/3mm,0.32,NOAA NCRMP Day 4/Dive 15. LPI Benthic Survey.
+73,6/14/2023,"East of Buck Island, STX, USVI",0:34,55,38.4,86.4,82.2,2500,1400,8#,4/3mm,0.21,NOAA NCRMP Day 4/Dive 16. LPI Benthic Survey.
+74,6/20/2023,"Cane Bay, STX, USVI",0:48,55.75,82,83.8,82.9,3000,1000,4#,4/3mm,0.21,Cane Bay fun dive with SD while visiting during last deployment.
+75,6/21/2023,"Armageddon, STX, USVI",0:39,56.5,86.9,84.9,82.2,3000,1000,8#,4/3mm,0.21,"Nep2ne Boat Dive with SD. Armageddon = sunken old F'sted pier. STX, USVI"
+76,6/21/2023,"F'sted Pier, STX",1:08,57.75,45.3,85.6,82,3000,700,8#,4/3mm,0.21,Nep2ne Boat Dive with SD. Last deployment.
+77,6/22/2023,"Cane Bay, STX, USVI",0:25,58.25,28.5,83.3,82.2,3000,2500,8#,4/3mm,0.21,Cane Bay Shore dive with SD. Carousel Horse. Last medic deployment.
+78,6/22/2023,"F'sted Pier, STX",0:28,58.75,24.6,82.4,81.9,2500,1000,8#,4/3mm,0.21,F'sted pier night dive with SD. Last dive in STX during deployment.
+79,3/5/2024,Buck Island Reef National Monument,0:25,59.25,13.1,78.4,72.9,2900,1700,7#,4/3mm,0.21,"Buck Island Reef, NPS Recertification skills. Ditch and Don."
+80,3/12/2024,Buck Island Reef National Monument,0:39,60,11.8,80.8,80.1,3000,2000,7#,4/3mm,0.32,"Buck Island Reef. South Florida Caribbean Network, NPS Bluecard Lobster Survey Dive 1."
+81,3/12/2024,Buck Island Reef National Monument,0:45,60.75,11.5,80.8,80.1,2000,500,7#,4/3mm,0.32,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Survey Dive 2.
+82,3/12/2024,Buck Island Reef National Monument,0:41,61.5,26.2,80.6,80.1,3000,1500,7#,4/3mm,0.21,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Survey Dive 3.
+83,3/14/2024,Buck Island Reef National Monument,0:33,62,24.6,80.6,79.7,3000,1500,8#,4/3mm,0.32,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 4. Backplate
+84,3/14/2024,Buck Island Reef National Monument,0:23,62.5,23.3,79.9,79.5,3400,500,8#,4/3mm,0.32,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 5. Backplate
+85,3/14/2024,Buck Island Reef National Monument,0:29,63,31.5,80.6,79.5,3100,1800,8#,4/3mm,0.21,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 6. Backplate
+86,3/14/2024,Buck Island Reef National Monument,0:38,63.75,22.6,80.1,79.7,1800,600,7#,4/3mm,0.21,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 7. Backplate
+87,3/14/2024,Buck Island Reef National Monument,0:35,64.5,18.4,79.7,79.5,3100,1900,7#,4/3mm,0.21,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 8. Backplate
+88,3/14/2024,Buck Island Reef National Monument,0:28,65,14.4,80.1,80.1,1900,1000,7#,4/3mm,0.21,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 9. Backplate
+89,3/15/2024,Buck Island Reef National Monument,0:26,65.5,4,,,3000,2000,7#,4/3mm,0.21,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 10. Backplate
+90,3/15/2024,Buck Island Reef National Monument,0:37,66.25,14.4,79.5,79.3,2000,1300,7#,4/3mm,0.21,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 11. Backplate
+91,3/15/2024,Buck Island Reef National Monument,0:26,66.75,10.2,80.4,79.7,1300,600,7#,4/3mm,0.21,Buck Island Reef. South Florida Caribbean Network. NPS Bluecard Lobster Dive 12. Backplate
+92,3/21/2024,Buck Island Reef National Monument,1:20,68.25,35.4,81.9,80.2,3000,600,6#,4/3mm,0.21,"Buck Island Reef. (South Fore reef). STX. NPS Bluecard, Nature Conservancy Outplanting Coral. P. porites"
+93,3/21/2024,Buck Island Reef National Monument,0:24,68.75,26.6,84,80.8,3000,2500,6#,4/3mm,0.21,"Buck Island Reef. (South Fore reef). STX. NPS Bluecard, Nature Conservancy Outplanting Coral. P. porites"
+94,3/28/2024,"Salt River, STX",0:35,69.5,36.4,84,80.2,3100,1700,6#,4/3mm,0.21,"East Mooring Ball, Inner. NPS bluecard. Nassau Grouper Survey Dive 1. Backplate"
+95,3/28/2024,"Salt River, STX",0:54,70.5,88.9,81.1,80.1,3100,600,6#,4/3mm,0.21,"East Mooring Ball, Outer. NPS bluecard. Nassau Grouper Survey Dive 2. Backplate"
+96,3/29/2024,Buck Island Reef National Monument,0:27,71,21.3,81.3,81,3000,1400,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 3. Backplate"
+97,3/29/2024,Buck Island Reef National Monument,0:35,71.75,13.1,81.7,81,1400,600,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 4. Backplate"
+98,3/29/2024,Buck Island Reef National Monument,0:39,72.5,12.8,79.9,78.8,1700,900,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 5. Backplate"
+99,4/1/2024,Buck Island Reef National Monument,0:33,73,48.2,81.9,80.4,3200,1900,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 6. Backplate"
+100,4/1/2024,Buck Island Reef National Monument,0:20,73.5,82.7,80.8,80.2,1900,1100,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 7. Backplate"
+101,4/1/2024,Buck Island Reef National Monument,0:27,74,25,,,,,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 8. Backplate. Dolphin dive"
+102,4/1/2024,Buck Island Reef National Monument,0:22,74.5,24.6,81.3,80.4,1500,1000,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 9. Backplate"
+103,4/1/2024,Buck Island Reef National Monument,0:23,75,27.2,80.6,80.1,1000,400,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 10. Backplate"
+104,4/15/2024,Buck Island Reef National Monument,0:38,75.75,53.1,81.5,79.9,3000,1800,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 11. Backplate"
+105,4/15/2024,Buck Island Reef National Monument,0:30,76.25,40.7,81.1,79.7,1800,500,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 12. Backplate"
+106,4/15/2024,Buck Island Reef National Monument,0:35,77,24.3,81.3,80.8,2700,1700,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 13. Backplate"
+107,4/15/2024,Buck Island Reef National Monument,0:36,77.75,23.6,81.9,80.8,1700,500,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 14. Backplate"
+108,4/16/2024,Buck Island Reef National Monument,0:35,78.5,29.9,83.5,81,3200,2000,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 15. Backplate"
+109,4/16/2024,Buck Island Reef National Monument,0:37,79.25,64,81.5,80.8,2000,500,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 16. Backplate"
+110,5/23/2024,Buck Island Reef National Monument,1:15,80.5,42,,,3000,600,6#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. Nassau Grouper Dive 17. Backplate. Live Boating, none observed."
+111,5/24/2024,Buck Island Reef National Monument,1:34,82,13.1,85.8,83.1,2700,600,6#,4/3mm,0.21,"Buck Island, Brain Garden in Lagoon. Nassau Grouper Dive 18. Backplate. SCTLD Tx."
+112,5/24/2024,Buck Island Reef National Monument,0:28,82.5,23,84.9,83.8,3300,2600,0,4/3mm,0.21,"Buck Island, Scuba Cut location in lagoon. Nassau Grouper Survey Dive 19. Back plate. None observed."
+113,5/24/2024,Buck Island Reef National Monument,0:29,83,34.8,84.2,83.7,2600,1900,6#,4/3mm,0.21,"Buck Island, Boat Cut location in lagoon. Nassau Grouper Survey Dive 20. Back plate. None observed."
+114,5/30/2024,Buck Island Reef National Monument,1:20,84.5,41.7,87.6,83.5,3200,500,0,4/3mm,0.21,"Buck Island, Boat Cut location in lagoon (deep section). Nassau Grouper Survey Dive 21. Back plate. None observed."
+115,6/5/2024,Buck Island Reef National Monument,0:37,85.25,31.2,86.9,84,3100,2100,7#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. A. Palmata Survey"
+116,6/5/2024,Buck Island Reef National Monument,0:23,85.75,38.4,84.7,83.7,2100,1400,7#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. A. Palmata Survey"
+117,6/5/2024,Buck Island Reef National Monument,0:26,86.25,23.3,85.1,84.2,1400,1000,7#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. A. Palmata Survey"
+118,6/5/2024,Buck Island Reef National Monument,0:22,86.75,35.8,84.4,84,1000,800,7#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. A. Palmata Survey"
+119,6/5/2024,Buck Island Reef National Monument,0:24,87.25,22.3,84.9,84,3000,2800,7#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. A. Palmata Survey"
+120,6/5/2024,Buck Island Reef National Monument,0:26,87.75,12.8,84.4,84.2,2800,2000,7#,4/3mm,0.21,"Buck Island, STX. NPS Bluecard. A. Palmata Survey"
+121,12/21/2024,"Hammerhead Beach, Bimini, Bahamas",1:20,89.25,31.8,82.2,77.5,3300,1000,20#,4/3mm,0.21,"Hammerhead Beach, Bimini, Bahamas"
+122,12/21/2024,"Hammerhead Beach, Bimini, Bahamas",0:37,90,31.8,82.2,77.6,3200,2700,20#,4/3mm,0.21,"Hammerhead Beach, Bimini, Bahamas"
+123,12/22/2024,"Sapona Wreck, Bimini, Bahamas",0:50,91,14.8,75.4,74.3,3100,1800,8#,4/3mm,0.21,"Sapona Wreck, Bimini, Bahamas"
+124,12/22/2024,"Moray Alley, Bimini Bahamas",0:45,91.75,24.9,75.1,74.4,3200,2000,8#,4/3mm,0.21,"Moray Alley, Bimini Bahamas"
+125,2/13/2026,"Key Biscayne, FL",0:45,92.5,12.8,72.3,70.7,3000,2200,4#,4/3mm,0.21,"Half Moon Bay, Key Biscayne (Miami) FL. Halcyon Backplate BC. AAUS, UM"
+126,2/13/2026,"Key Biscayne, FL",0:45,93.25,11.2,73.2,70.5,2900,1200,4#,4/3mm,0.21,"Half Moon Bay, Key Biscayne (Miami) FL. Halcyon Backplate BC. AAUS, UM"
+127,2/20/2026,"Miami, FL",0:45,94,14.4,75.2,74.5,3100,1800,6#,5mm,0.21,"South Beach Jetty, 6# barely enough weight with new 5 mm. Halcyon Backplate BC. AAUS, UM"
+128,2/27/2026,"Miami, FL",0:30,94.5,42.7,75.2,72.3,3000,1400,6#,5mm,0.21,"Neptune Memorial Reef, Miami Fl, Navigation Dive. Halcyon Backplate BC. AAUS, UM"
+129,2/28/2026,"Miami, FL",0:30,95,43.3,75.4,72.5,3200,1400,6#,5mm,0.21,"Neptune Memorial Reef, Miami Fl, Navigation Dive Halcyon Backplate BC. AAUS, UM"
+130,4/3/2026,"Dania Beach, FL",0:45,95.75,29.2,79.2,69.6,3200,1500,0,5mm,0.21,"Tigertail Lake, low-viz, freshwater dive, no weight. Halcyon backplate BC. AAUS, UM"
+131,4/10/2026,"Key Biscayne, FL",0:30,96.25,18.4,80.4,77.2,2800,2000,6#,5mm,0.21,"Bear Cut, Key Biscayne, FL, Low viz. Halcyon Backplate BC. AAUS, UM"
+132,4/13/2026,"Key Biscayne, FL",0:30,96.75,16.7,78.1,74.3,3100,2100,6#,5mm,0.21,"Bear Cut, Key Biscayne, FL, Low viz. Halcyon Backplate BC. AAUS, UM"
+133,4/17/2026,"Key Biscayne, FL",0:40,97.5,58.4,77.7,76.8,3200,1100,6#,5mm,0.21,"Belcher Barge, Key Biscayne, FL, 60 foot viz. Halcyon Backplate, 60 foot Auth. Check Off AAUS, UM"
+134,4/17/2026,"Key Biscayne, FL",0:30,98,60,77.5,76.6,3100,1700,6#,5mm,0.21,"Belcher Barge, Key Biscayne, FL, 60 foot viz. Halcyon Backplate, 60 foot Auth. Check Off AAUS, UM"
+135,5/21/2026,"Key Biscayne, FL",0:45,98.75,31,81.7,80.6,3100,1000,6#,5mm,0.21,"Belcher Barge, Key Biscayne, FL, DSO TA Check Off Dive"
+136,5/22/2026,"Key Biscayne, FL",0:45,99.5,62.3,81.9,80.6,3100,800,6#,5mm,0.21,"Belcher Barge, Key Biscayne, FL, DSO TA Check Off Dive"
+137,8/11/2026,"Key Biscayne, FL",0:45,100.25,18.4,86,85.8,3000,2000,4#,none,0.21,"Bear Cut, Key Biscayne, FL, Low viz. Halcyon Backplate BC. DSO Check off Dive"
+138,8/21/2026,"Key Biscayne, FL",0:45,101,16.7,88.2,87.3,3000,2200,6#,4/3mm,0.21,"Bear Cut, Key Biscayne, FL, Halcyon Backplate BC. DSO Check off Dive"
+139,8/28/2026,"Key Biscayne, FL",0:45,101.75,18,87.3,86.9,3200,2300,6#,4/3mm,0.21,"Bear Cut, Key Biscayne, FL, Halcyon Backplate BC. DSO Check off Dive for VOT Personnel."
+140,9/11/2026,"Key Biscayne, FL",0:30,102.25,28.5,86.4,86.2,3000,1600,6#,none,0.32,"Rainbow Reef, Key Biscayne, FL. Halcyon Backplate BC, Over weighted with 6 and no wetsuit, TA UM Dive Class Checkout"
+141,9/11/2026,"Key Biscayne, FL",0:45,103,28.5,86.5,86.2,3100,1800,6#,none,0.32,"Rainbow Reef, Key Biscayne, FL. Halcyon Backplate BC, Over weighted with 6 and no wetsuit. TA UM Pictionary for class"
+142,9/11/2026,"Key Biscayne, FL",0:30,103.5,25.9,88,85.3,3000,1800,6#,none,0.32,"Rainbow Reef, Key Biscayne, FL. Halcyon Backplate BC, Over weighted with 6 and no wetsuit, TA UM Dive Class Checkout"
+143,9/11/2026,"Key Biscayne, FL",0:45,104.25,25.9,88.9,86.5,3000,1500,6#,none,0.32,"Rainbow Reef, Key Biscayne, FL. Halcyon Backplate BC, Over weighted with 6 and no wetsuit. TA UM Pictionary for class"
+144,9/18/2026,"Key Biscayne, FL",0:32,104.75,17,85.5,84.7,3000,1800,2#,none,0.21,"South Beach Jetty, Miami, FL. Set up for Dive class navigation. AAUS, UM"
+145,9/25/2026,"Key Biscayne, FL",0:36,105.5,18.7,83.3,83.3,3000,1500,0,none,0.21,"Bear Cut, Key Biscayne, FL, Low viz. Halcyon Backplate BC. Staff Dive AAUS, UM."
