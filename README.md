@@ -28,10 +28,10 @@ through advanced open water, NPS Blue Card, AAUS, and current Divemaster trainin
 
 - `results/`: Contains a folder with images of plots from the data visualization and analysis
 
-  -`results/img/dive_hours.png` shows a line graph of my cumulative dive time to date 
-  -`results/img/count_per_region.png` shows a bar plot of total dives per region
-  -`results/img/depth_by_site.png` shows a histogram of max depths by site
-  -`results/img/air_v_depth.png` shows a scatter plot of Air Consumed by Dive Time and Depth
+  - `results/img/dive_hours.png` shows a line graph of my cumulative dive time to date
+  - `results/img/count_per_region.png` shows a bar plot of total dives per region
+  - `results/img/depth_by_site.png` shows a histogram of max depths by site
+  - `results/img/air_v_depth.png` shows a scatter plot of Air Consumed by Dive Time and Depth
 
   ## About the Data
 - `data/processed/dive_data_clean.rds` contains 145 rows and 17 columns:
