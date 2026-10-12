@@ -51,7 +51,7 @@ dive_data <- dive_data |>
          psi_per_min = (air_consumed / dive_min),  # air per minute on each dive
          temp_diff = (surface_temp - bottom_temp))  # temp dif. between surface and bottom 
 
-## Inspect the new tibble 
+## Inspect new dataframe
 
 colnames(dive_data) # colum names
 str(dive_data)       # column structure
@@ -77,7 +77,6 @@ view(dive_data_clean)   # viewing new tibble
 colnames(dive_data_clean) # checking names
 str(dive_data_clean)      # checking structure 
 dive_data_clean          # overview
-
 
 
 # EXPORT #######################################################################

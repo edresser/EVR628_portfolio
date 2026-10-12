@@ -6,7 +6,7 @@
 # ebd63@miami.edu
 # 10/11/2026
 #
-# Script contains initial visualization of data uisng basic ggplots 
+# Script contains initial visualization of data using basic ggplots 
 #
 ################################################################################
 
@@ -31,7 +31,7 @@ dive_hours <- ggplot(dive_data,
                        geom_line(na.rm = TRUE, 
                                  linewidth = 1.05) + 
   labs(x = "Date",
-       y = " Total Dive Hours",
+       y = "Total Dive Hours",
        title = "Cumulative Dive Time",
        caption = "dresser_dive_log.csv")+
   theme_bw()
@@ -40,33 +40,32 @@ dive_hours
 
 
 
-count_per_site <- ggplot(dive_data,
+count_per_region <- ggplot(dive_data,
        aes(x = region, 
            fill = region))+
-         geom_bar()+
-  labs(x = "Dive Area",
+         geom_bar(show.legend = FALSE)+
+  labs(x = "Region",
        y = "Number of Dives",
-       title = "Dives per Site",
-       fill = "Dive Location",
+       title = "Dives per Region",
        caption = "dresser_dive_log.csv")+
   theme_bw()
 
-count_per_site
+count_per_region
 
 ### Depth ### 
 
 
-depth_per_site <- 
+depth_per_region <- 
     ggplot(dive_data, aes(x = max_depth, fill = region)) +
-  geom_histogram(binwidth = 10) +
+  geom_histogram(binwidth = 10, show.legend = FALSE) +
   facet_wrap(~region, scales = "free_y") + 
-  labs( x = "Max Depth",
+  labs( x = "Max Depth (ft)",
         y = "Number of Dives",
-        title = "Depth by Site",
+        title = "Depth by Region",
         caption = "dresser_dive_log.csv")+
   theme_bw()
 
-depth_per_site
+depth_per_region
 
 
 ### Air Consumption ###
@@ -98,16 +97,16 @@ ggsave(plot = dive_hours,
 
 ## Export the Dive per Site Plot ----------------------------------------------
 
-ggsave(plot = count_per_site,
-       filename = "results/img/count_per_site.png",
+ggsave(plot = count_per_region,
+       filename = "results/img/count_per_region.png",
        width = 10,
        height = 8)
 
 
 ## Export the Depth by Site Plot ----------------------------------------------
 
-ggsave(plot = depth_per_site,
-       filename = "results/img/depth_per_site.png",
+ggsave(plot = depth_per_region,
+       filename = "results/img/depth_per_region.png",
        width = 10,
        height = 8)
 
