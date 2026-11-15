@@ -18,23 +18,25 @@ through advanced open water, NPS Blue Card, AAUS, and current Divemaster trainin
 ## Repository Structure
 
 - `data/`:
-  - `data/raw` contains the `dresser_dive_log.csv` file and `dive_locations.csv` file as imported from my personal computer
-  - `data/processed` contains a single cleaned version of my data `clean_dive_log.rds`
+  - `data/raw` contains the `dresser_dive_log.csv` file as imported from my personal computer
+  - `data/processed` contains a single cleaned version of my data `dive_data_clean.rds`
   
 - `scripts/`: R scripts for analysis
-  - `scripts/01_processing` contains a single script that reads the raw data from both files, cleans them, and exports the processed data
+  - `scripts/01_processing` contains a single script that reads the raw data, cleans it, groups the dive locations into area, region, and site, and exports the processed data
   - `scripts/02_analyses` contains a script that reads in the cleaned data and conducts exploratory visualization
-  - `scripts/03_contents` contains a single script that builds the final plots and figures
+  - `scripts/03_content` contains `exploratory_data_visualization.R` which builds the plots and figures and `spatial_data_visualization.R` which build maps with the dive locations and spatial data 
 
 - `results/`: Contains a folder with images of plots from the data visualization and analysis
 
   - `results/img/dive_hours.png` shows a line graph of my cumulative dive time to date
   - `results/img/count_per_region.png` shows a bar plot of total dives per region
-  - `results/img/depth_by_region.png` shows a histogram of max depths by region
+  - `results/img/depth_per_region.png` shows a histogram of max depths by region
   - `results/img/air_v_depth.png` shows a scatter plot of Air Consumed by Dive Time and Depth
+  -  `results/img/st_croix_dive_sites.png` shows a map of my St. Croix dives with circles sized by number of dives
+  -  `results/img/florida_bimini_dive_sites.png` shows a map of my dives in South Florida and Bimini
 
   ## About the Data
-- `data/processed/dive_data_clean.rds` contains 145 rows and 17 columns:
+- `data/processed/dive_data_clean.rds` contains 145 rows and 18 columns:
 
   - `dive_number` - Integer - Sequential number of each dive in the log
   - `date` - Date - Date of the dive
@@ -51,5 +53,6 @@ through advanced open water, NPS Blue Card, AAUS, and current Divemaster trainin
   - `air_consumed` - Integer - Air used during the dive in PSI (`air_in` - `air_out`)
   - `psi_per_min` - Numeric - Air used per minute in PSI (`air_consumed` / `dive_min`)
   - `temp_diff` - Numeric - Surface minus bottom temperature in degrees Fahrenheit (`surface_temp` - `bottom_temp`)
-  - `area` - Character - Where the dive took place: `"St. Croix"`, `"Viti Levu"`, `"Taveuni"`, `"Bimini"`, `"Miami"`, or `"Dania Beach"`
-  - `region` - Character - Larger grouping of `area` to encompass countries, states, territories: `"USVI"`, `"Fiji"`, `"Bahamas"`, or `"Florida"`
+  - `area` - Character - Where the dive took place: `"St. Croix"`, `"Viti Levu"`, `"Taveuni"`, `"Bimini"`, `"Miami"`, `"Key Biscayne"` or `"Dania Beach"`
+  - `region` - Character - Larger grouping of `area` to encompass countries, states, territories: `"USVI"`, `"Fiji"`, `"Bahamas"`, or `"South Florida"`
+  - `site` - Character - Specific dive site, e.g. "Buck Island", "Cane Bay", or "Frederiksted Pier". For areas outside St. Croix the site is the same as area
