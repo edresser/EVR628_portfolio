@@ -23,8 +23,8 @@ through advanced open water, NPS Blue Card, AAUS, and current Divemaster trainin
   
 - `scripts/`: R scripts for analysis
   - `scripts/01_processing` contains a single script that reads the raw data, cleans it, groups the dive locations into area, region, and site, and exports the processed data
-  - `scripts/02_analyses` contains a script that reads in the cleaned data and conducts exploratory visualization
-  - `scripts/03_content` contains `exploratory_data_visualization.R` which builds the plots and figures and `spatial_data_visualization.R` which build maps with the dive locations and spatial data 
+  - `scripts/02_analyses` will contain any additional scripts involving analyses 
+  - `scripts/03_content` contains `exploratory_data_visualization.R` which builds the plots and figures and `spatial_data_visualization.R` and builds maps with the dive locations and spatial data 
 
 - `results/`: Contains a folder with images of plots from the data visualization and analysis
 
