@@ -134,7 +134,7 @@ stx_map <- ggplot() +
   geom_sf(data = arrange(stx_sites, desc(n_dives)),             # Add dive sites as circles sized by number of dives
           aes(size = n_dives),
           shape = 21, fill = "steelblue", alpha = 0.7) +
-  geom_sf_text(data = filter(stx_sites, n_dives >= 5),               # Labeling most visited sites
+  geom_sf_text(data = filter(stx_sites, n_dives >= 4),               # Labeling site with more than 4 dives 
                aes(label = site), nudge_x = -0.01, nudge_y = 0.025, size = 4) +
   geom_sf_text(data = filter(stx_land, NAME == "St. Croix"),                           # Labeling island
                aes(label = NAME), fontface = "italic", size = 3, color = "gray30") +
