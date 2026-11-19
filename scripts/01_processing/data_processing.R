@@ -95,7 +95,7 @@ dive_data_clean <- dive_data |>
   select(-location) |>                                       # location dropped since = replaced by area/region/site
   as_tibble()                                               
 
-## Check new tibble to ensure no NA or errors
+## Check new tibble to ensure no NAs
 
 sum(is.na(dive_data_clean$area))     
 sum(is.na(dive_data_clean$region))   
