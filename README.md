@@ -15,12 +15,12 @@ This project uses my personal dive log data to analyze and visualize trends over
 
 - `data`: Contains the raw and processed data:
   - `data/raw/dresser_dive_log.csv`: Raw personal dive log data
-  - `data/processed/dive_data_clean.rds` clean dive log data
+  - `data/processed/dive_data_clean.rds`: clean dive log data
   
 - `scripts`: Contains all R scripts used in this project
-  - `scripts/01_processing/data_processeing.R`: This file reads the raw data, cleans and standardizes columns names, groups the dive locations into area, region, and site, and exports the processed data as `dive_data_clean.rds`
+  - `scripts/01_processing/data_processing.R`: This file reads the raw data, cleans and standardizes column names, groups the dive locations into area, region, and site, and exports the processed data as `dive_data_clean.rds`
   - `scripts/03_content/exploratory_data_visualization.R`: This file reads `dive_data_clean.rds`, builds four plots, and exports them to `results/img` as `dive_hours.png`, `count_per_region.png`, `depth_per_region.png`, and `air_v_depth.png`
-  - `scripts/03_content/spatial_data_visualizaton.R`: This file reads `dive_data_clean.rds` and builds two maps exported in `results/img` as `florida_bimini_dive_sites.png` and `st_croix_dive_sites.png`
+  - `scripts/03_content/spatial_data_visualization.R`: This file reads `dive_data_clean.rds` and builds two maps exported in `results/img` as `florida_bimini_dive_sites.png` and `st_croix_dive_sites.png`
 
 - `results`: Contains all output plots and maps
 
@@ -28,8 +28,8 @@ This project uses my personal dive log data to analyze and visualize trends over
   - `results/img/count_per_region.png` shows a barplot of total dives per region produced by `exploratory_data_visualization.R`
   - `results/img/depth_per_region.png` shows a histogram of max depths by region produced by `exploratory_data_visualization.R`
   - `results/img/air_v_depth.png` shows a scatter plot of Air Consumed by Dive Time and Depth produced by `exploratory_data_visualization.R` 
-  -  `results/img/st_croix_dive_sites.png` shows a map of St. Croix dives produced by `spatial_data_visualizaton.R`
-  -  `results/img/florida_bimini_dive_sites.png` shows a map of dives in South Florida and Bimini produced by `spatial_data_visualizaton.R`
+  -  `results/img/st_croix_dive_sites.png` shows a map of St. Croix dives produced by `spatial_data_visualization.R`
+  -  `results/img/florida_bimini_dive_sites.png` shows a map of dives in South Florida and Bimini produced by `spatial_data_visualization.R`
 
   ## About the Data
 - `data/processed/dive_data_clean.rds` contains 145 rows and 18 columns:
